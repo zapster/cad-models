@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="55.459998076212855mm" height="261.08745094267084mm" viewBox="0 0 55.459998076212855 261.08745094267084" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part__Part2DObjectPython001" transform="translate(-10.956275,130.543725) scale(1,-1)">
+<circle cx="44.87254713354201" cy="88.12745286645807" r="4.049999999999997" stroke="#212529" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="44.87254713354201" cy="-88.12745286645819" r="4.049999999999995" stroke="#212529" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<path id="Part__Part2DObjectPython001_w0002"  d="M 65.87254713354201 124.99999999999997 L 65.87254713354201 120.00000000000001 L 65.87254713354201 88.12745286645807 A 163.027 163.027 0 0 1 65.8725 -88.1275L 65.87254713354201 -119.99999999999999 L 65.87254713354201 -124.99999999999999 A 5 5 0 0 0 60.8725 -130L 50.87254713354201 -130.0 L 11.5 -130.0 L 11.5 -109.99999999999999 L 21.500000000000007 -109.99999999999999 L 21.500000000000007 -105.99999999999999 L 11.499999999999998 -105.99999999999999 L 11.5 106.0 L 21.500000000000007 105.99999999999999 L 21.500000000000007 109.99999999999999 L 11.500000000000005 109.99999999999999 L 11.5 120.00000000000001 L 11.5 130.0 L 60.87254713354201 130.0 A 5 5 0 0 0 65.8725 125" stroke="#212529" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython001'</title>
+</g>
+</svg>
